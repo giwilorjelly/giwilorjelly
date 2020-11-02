@@ -21,3 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giwilorjelly&show_icons=true&locale=en" alt="giwilorjelly" /></p>
 
+![Nerdy gif](https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif)

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giwilorjelly&label=Profile%20views&color=0e75b6&style=flat" alt="giwilorjelly" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning about **Deep Learning**
 
 - 📫 How to reach me **gidwanigiwil@gmail.com**
 

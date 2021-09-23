@@ -35,6 +35,8 @@
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/AdobeIllustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white)
 
+<h3 align="left">Github Stats:</h3>
+
 [![Giwil's github stats](https://github-readme-stats-theta-navy.vercel.app/api?username=giwilorjelly&count_private=true&include_all_commits=true)](https://github.com/giwilorjelly/github-readme-stats)
 
 

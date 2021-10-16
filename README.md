@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/giwilgidwani" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="giwilgidwani"/></a>
-<a href="https://kaggle.com/giwilorjely" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" alt="giwilorjely"/></a>
+<a href="https://kaggle.com/giwilorjelly" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" alt="giwilorjelly"/></a>
 <a href="https://www.hackerrank.com/giwilorjelly" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-2EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="giwilorjelly"/></a>
 <a href="https://leetcode.com/giwilorjelly/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="giwilorjelly"/></a>
 <a href="https://www.hackerearth.com/@giwilorjelly" target="blank"><img align="center" src="https://img.shields.io/badge/HackerEarth-2C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=white" alt="@giwilorjelly"/></a>

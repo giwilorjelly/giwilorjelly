@@ -44,7 +44,6 @@
 
 <h3 align="left">Github Stats:</h3>
 
-[![Giwil's github stats](https://github-readme-stats-theta-navy.vercel.app/api?username=giwilorjelly&count_private=true&include_all_commits=true)](https://github.com/giwilorjelly/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=giwilorjelly&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 

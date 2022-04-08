@@ -2,7 +2,6 @@
 <h3 align="center">An AI noob.</h3>
 <p><img align="right" style="white-space:nowrap;"src="https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif" alt="nerdy_gif" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giwilorjelly&label=Profile%20views&color=0e75b6&style=flat" alt="giwilorjelly" /> </p>
 
 - 🌱 I’m currently learning about **Deep Learning**
 
@@ -40,9 +39,3 @@
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
-
-<h3 align="left">Github Stats:</h3>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=giwilorjelly&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-

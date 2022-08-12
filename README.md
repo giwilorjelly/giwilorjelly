@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **gidwanigiwil@gmail.com**
 
+- 📄 More about me [(Resume)](https://docs.google.com/document/d/1-gR0rED_5hJkNDzzx1P3QLteEdBR02xkwzjSjRmQXfw/edit?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
